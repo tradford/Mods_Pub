@@ -1,4 +1,4 @@
-import logMessage as lm
+from logMessage import logMessage as lm
 import requests
 import json
 
